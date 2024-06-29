@@ -1,6 +1,10 @@
 # Arduino Bluetooth Robot Car
 
 This is a project that I have created as an IoT Project for my University.
+<p align="center">
+<img src="/assets/images/image2.png" width=250px alt="side-view-of-car"/>
+<img src="/assets/images/image1.png" width=250px alt="top-view-of-car"/>
+</p>
 
 ## Introduction
 
@@ -17,6 +21,10 @@ This is a project that I have created as an IoT Project for my University.
 - Gear Motors
 - Wheels
 - Jumper Wires
+
+## Circuit Diagram
+
+<img src="/assets/images/circuit_diagram.png" alt="circuit-diagram">
 
 ## Working
 
